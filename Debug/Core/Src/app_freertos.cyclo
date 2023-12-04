@@ -1,0 +1,8 @@
+../Core/Src/app_freertos.c:102:13:configureTimerForRunTimeStats	1
+../Core/Src/app_freertos.c:107:22:getRunTimeCounterValue	1
+../Core/Src/app_freertos.c:114:13:vPortSuppressTicksAndSleep	1
+../Core/Src/app_freertos.c:127:6:MX_FREERTOS_Init	1
+../Core/Src/app_freertos.c:178:6:advertisingTask_Entry	1
+../Core/Src/app_freertos.c:196:6:HRSAPPMeasurementsTask_Entry	1
+../Core/Src/app_freertos.c:208:6:advLowPowerTimer_cb	1
+../Core/Src/app_freertos.c:216:6:HRSAPPMeasurementsTimer_cb	1
